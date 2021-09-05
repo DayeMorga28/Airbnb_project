@@ -1,2 +1,5 @@
 # Airbnb_project
-Proyecto para prototype BEDU sobre  alojamientos en Airbnb
+Proyecto para prototype BEDU sobre alojamientos en Airbnb
+
+- EDA
+- Mapacloropetico
